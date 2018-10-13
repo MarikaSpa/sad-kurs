@@ -1,2 +1,3 @@
 plik na master
-mieniamy cos
+zmieniamy cos
+dodalismy nowy branch na master i to jest zmodyfikowany plik

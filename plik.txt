@@ -1,2 +1,3 @@
 mój pierwszy plik w git
 coœ tam
+kolejna zmiana w branch develop, coœtam robimy i siê cieszymy

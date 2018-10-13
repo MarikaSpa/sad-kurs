@@ -1,3 +1,6 @@
+
+Modyfikuje plik na develop
+
 dodaje now¹ pierwsz¹ linie w master
 
 mój pierwszy plik w git
